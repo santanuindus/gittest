@@ -22,7 +22,7 @@ function check()
 	}
 
 </script>
-
+Test
 <?php
 
    if(isset($_REQUEST['Submit'])){
