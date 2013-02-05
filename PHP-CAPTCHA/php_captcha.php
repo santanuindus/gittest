@@ -22,3 +22,4 @@ header("Content-type: image/jpeg");// out out the image
 imagejpeg($NewImage);//Output image to browser 
 
 ?>
+test
