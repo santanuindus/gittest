@@ -22,7 +22,7 @@ function check()
 	}
 
 </script>
-test test for Master
+test test for newbranch
 <?php
 
    if(isset($_REQUEST['Submit'])){
